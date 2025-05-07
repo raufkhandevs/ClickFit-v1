@@ -1,0 +1,4 @@
+.env
+node_modules
+upload_images/*
+src/frontend/public/uploads/*
